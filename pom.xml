@@ -36,21 +36,21 @@
         <maven>${maven.version}</maven>
     </prerequisites> -->
     <modules>
-        <module>flower.common</module>
-        <module>flower.center</module>
-        <module>flower.sample</module>
-        <module>flower.web</module>
-        <module>flower.bom</module>
-        <module>flower.container</module>
-        <module>flower.test</module>
-        <module>flower.filter</module>
-        <module>flower.core</module>
-        <module>flower.serializer</module>
-        <module>flower.registry</module>
-        <module>flower.tools</module>
-        <module>flower.config</module>
-        <module>flower.boot.starter</module>
-        <module>flower.ddd</module>
+        <module>flower-common</module>
+        <module>flower-center</module>
+        <module>flower-sample</module>
+        <module>flower-web</module>
+        <module>flower-bom</module>
+        <module>flower-container</module>
+        <module>flower-test</module>
+        <module>flower-filter</module>
+        <module>flower-core</module>
+        <module>flower-serializer</module>
+        <module>flower-registry</module>
+        <module>flower-tools</module>
+        <module>flower-config</module>
+        <module>flower-boot-starter</module>
+        <module>flower-ddd</module>
     </modules>
     <scm>
         <connection>scm:git:git@github.com:${github.org}/${github.repo}.git</connection>
