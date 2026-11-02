@@ -70,7 +70,7 @@
         <cobertura-maven-plugin.version>2.7</cobertura-maven-plugin.version>
         <commons.io.version>2.14.0</commons.io.version>
         <druid.version>1.0.12</druid.version>
-        <fastjson.version>1.2.83</fastjson.version>
+        <fastjson.version>1.2.84</fastjson.version>
         <fastjson2.version>2.0.57</fastjson2.version>
         <findbugs-maven-plugin.version>3.0.5</findbugs-maven-plugin.version>
         <gatling-charts-highcharts.version>3.0.3</gatling-charts-highcharts.version>
@@ -155,7 +155,7 @@
             <dependency>
                 <groupId>com.google.guava</groupId>
                 <artifactId>guava</artifactId>
-                <version>33.4.6-jre</version>
+                <version>33.7.1-jre</version>
             </dependency>
             <dependency>
                 <groupId>commons-io</groupId>
